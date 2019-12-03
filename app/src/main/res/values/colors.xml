@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="graydiyent_start">#953F51B5</color>
+    <color name="graydiyent_end">#3F51B5</color>
+
+    <color name="tab_indicatorgray">#c0c0c0</color>
+    <color name="into_title_color">#000000</color>
+    <color name="intro_descriptive_color">#656565</color>
+</resources>
