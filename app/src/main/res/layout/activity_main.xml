@@ -42,7 +42,7 @@
         app:layout_constraintVertical_bias="0.9"
         android:drawableEnd="@drawable/ic_next_arrow" />
 
-    <androidx.viewpager.widget.ViewPager
+    <com.example.viewpagerwithdotimage.NonSwipeableViewPager
         android:id="@+id/viewPager"
         android:layout_width="395dp"
         android:layout_height="658dp"
